@@ -1,2 +1,2 @@
 # Prospectus
-It contains document about my prospectus with overleaf document.
+It has document about my prospectus with latex code. 
